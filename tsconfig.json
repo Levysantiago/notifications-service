@@ -16,6 +16,7 @@
     "strictNullChecks": true,
     "noImplicitAny": false,
     "strictBindCallApply": false,
+    "resolveJsonModule": true,
     "strictPropertyInitialization": false,
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
